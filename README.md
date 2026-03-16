@@ -19,3 +19,5 @@ Projeto inspirado em plataformas de streaming como Netflix.
 ## Desenvolvido por
 
 Karen Pedroso
+
+file:///C:/Users/Usu%C3%A1rio/Desktop/Gro/home.html
